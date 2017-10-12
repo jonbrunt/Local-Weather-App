@@ -22,8 +22,13 @@ h1 {
 	text-align: center;
 	margin: 30px auto;
 	padding: 0 20px;
+	color: #ffffff;
 	font-size: 3em;
 	letter-spacing: 1px;
+}
+
+#location {
+	color: #ffffff;
 }
 
 div {

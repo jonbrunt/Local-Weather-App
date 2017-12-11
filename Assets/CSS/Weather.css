@@ -4,7 +4,7 @@ body {
 	background-color: #2a2a2a;
 	background-image: url('https://res.cloudinary.com/jonbrunt/image/upload/v1507232193/RioFCC_ryrh15.jpg');
 	min-height: 600px;
-	background-position: center;
+	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: 'Lato', sans-serif;

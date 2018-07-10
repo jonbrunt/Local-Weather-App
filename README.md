@@ -1,2 +1,2 @@
-# Local-Weather-App
+# Local Weather App
 An app that uses geolocation and a weather API to render the local weather to the user, written in plain HTML and CSS, and vanilla JavaScript. The FCC Weather API and Google Maps API is utilized to obtain local weather and corresponding location name based on HTML5 geolocation. It also allows for click conversion between Fahrenheit and Celsius. This app may not render in all browsers due to use of fetch() method for AJAX, specifically IE and Opera Mini. This app requires authorization by the user for geolocation.
